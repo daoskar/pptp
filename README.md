@@ -13,3 +13,5 @@ Run the script and follow the assistant:
 Once it ends, you can run it again to add more users or uninstall PPTP.
 
 `bash PPTP.sh`
+
+#### Note: This shell should work on ubuntu as well. I haven't tried. Im not big fan of ubuntu
