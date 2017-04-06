@@ -13,7 +13,7 @@ echo "	6) Restart PPTP"
 echo "	7) Status PPTP"
 echo "	8) Logs PPTP"
 echo "	9) Uninstall PPTP"
-echo "  0) Exit"
+echo "	0) Exit"
 echo""
 
 read -p "Select an option [0-9]: " option
